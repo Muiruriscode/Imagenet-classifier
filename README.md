@@ -6,7 +6,6 @@ The model detects two oblects based on which button has been cklicked. If the fi
 More buttons bcan be added to classify more objects since the process is dynamic.
 
 !["class 1"](./assets/class%201.png)
-!["class 2"](./assets/class%202.png)
 
 ## Check video support and load video
 ```js
